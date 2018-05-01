@@ -1,4 +1,9 @@
+# iOSTweaks REPO Purpose
+All Source codes for tweaks are private. The purpose of this repo is to download new releases and report bugs&issues with the tweaks. 
 
+Tools by StarBlayze (Not publicly available (yet))
+ViPCracker v1.1.4
+ViPCracker v2.1
 
 # iOS Tweaks
 Here you will find all the latest releases by StarBlayze. 
