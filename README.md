@@ -2,18 +2,7 @@
 All Source codes for tweaks are private. The purpose of this repo is to download new releases and report bugs&issues with the tweaks. 
 
 
-# IMPORTANT — Read this first before you use the hacks!
 
-The Crack process is now handled automatically which means, the process is GUARANTEED to work. 
-
-From today ViPCracker V1 is discontinued, and only ViPCracker V2 will be used (as V1 could fail, V2 can't).
-
-——
-
-The hacks are originally made by iOSGods, but only for ViP Users. I (StarBlayze) Cracked them so, you no longer need to login, it’s completely free. (If u like the hacks, consider to buy it from iOSGods ViP) (I have personally been a ViP user on iOSGods for over a year, and it’s good!) 
-
-– Most Cracked with ViPCracker v2 by StarBlayze.
-  </details>
 
 Tools by StarBlayze (Not publicly available (yet))
 ViPCracker V1
