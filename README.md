@@ -39,3 +39,6 @@ The hacks are originally made by iOSGods, but only for ViP Users. I (StarBlayze)
 
 – Most Cracked with ViPCracker v2 by StarBlayze.
 
+# ViP Cracker V2
+This tool will be released soon with a tutorial too. (This can crack ANY iOSGods IPA HACK)
+
