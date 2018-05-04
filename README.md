@@ -1,11 +1,9 @@
 # iOSTweaks REPO Purpose
 All Source codes for tweaks are private. The purpose of this repo is to download new releases and report bugs&issues with the tweaks. 
-- EX Player: Watch videos from EX.UA file sharing  
-  <details><summary><code>objc</code> </summary>
+- iOSGods ViP Hacks 
+  <details><summary><code>iOSGods ViP Hacks</code> </summary>
 
-  https://github.com/IGRSoft/exTVPlayer<br>  Added February  9, 2016<br>  License: [`lgpl-2.1`](http://choosealicense.com/licenses/lgpl-2.1/)
-  <div><img height='300' alt='EX Player image 1' src='https://raw.githubusercontent.com/IGRSoft/exTVPlayer/master/Screenshots/4.png'> 
-</div>
+  hey bro
   </details>
 
 Tools by StarBlayze (Not publicly available (yet))
