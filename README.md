@@ -9,6 +9,7 @@ All Source codes for tweaks are private. The purpose of this repo is to download
 [HAWK: Freedom Squadron Shooter HACK](https://dailyuploads.net/n1y9hwbpcq95?fpdi_ticket=QHWr7Q05lcYEs9Riud2rOBKHN8zo2O1WTydwiaKCmI4dQ2VqinDbwYccoPiRuh49yZ7jRL%2BwpKTOcq3K7pWMTuZB8C3ycfDTOhgn6%2BikNwJrgRfXzuxPPbguK6rAumEkRxbXyF%2BNMcW3m4vR6aHy5Q%3D%3D)
 
 [Bullet Force HACK](https://userscloud.com/3vm9b2ejhlem?fpdi_ticket=QHWr7Q05lcYEs9Riud2rOF40ntWYAuMr2km4lGyMr8IdQ2VqinDbwYccoPiRuh49yZ7jRL%2BwpKTOcq3K7pWMTuZB8C3ycfDTOhgn6%2BikNwI%2FvqTBh1rkTK2%2B3iAAe6naRxbXyF%2BNMcW3m4vR6aHy5Q%3D%3D) (This hack is cracked with V1, (due to V2 was not yet made).)
+<details>
 
 # IMPORTANT — Read this first before you use the hacks!
 
