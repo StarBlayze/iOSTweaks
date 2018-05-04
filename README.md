@@ -11,7 +11,7 @@ Here you will find all the latest releases by StarBlayze.
 
 [GBA4iOS11 2.1.6](https://appd.be/star/GBA4iOS11%20(2.1.6%20–%20iOS11x%20Fix).ipa)
 
-[GBA4iOS11 2.1.5](hhttps://appd.be/star/GBA4iOS11%20v2.1.5.ipa)
+[GBA4iOS11 2.1.5](https://appd.be/star/GBA4iOS11%20v2.1.5.ipa)
 
 # iOS Cracks
 Here you will find the latest cracks by me
