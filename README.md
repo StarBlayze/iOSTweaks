@@ -43,3 +43,6 @@ The hacks are originally made by iOSGods, but only for ViP Users. I (StarBlayze)
 # ViP Cracker V2
 This tool will be released soon with a tutorial too. (This can crack ANY iOSGods IPA HACK)
 
+
+## DISCLAIMER
+THIS REPO DOES NOT HOST ANY PROHIBITIED CONTENT AT ALL – The cracks I have, is also by crackers, so that makes it okay lol
