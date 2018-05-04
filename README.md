@@ -2,7 +2,6 @@
 All Source codes for tweaks are private. The purpose of this repo is to download new releases and report bugs&issues with the tweaks. 
 - iOSGods ViP Hacks 
   <details><summary><code>iOSGods ViP Hacks</code> </summary>
-# iOSGods ViP Hacks (FREE)
 
 [MARVEL Contest of Champions HACK](https://dailyuploads.net/wzs96big8srw?fpdi_ticket=QHWr7Q05lcYEs9Riud2rOKpFUsEwRGdppurohT0t57cdQ2VqinDbwYccoPiRuh49yZ7jRL%2BwpKTOcq3K7pWMTuZB8C3ycfDTOhgn6%2BikNwILi6HBQFYJeMBn7RwmfB4RRxbXyF%2BNMcW3m4vR6aHy5Q%3D%3D)
 
