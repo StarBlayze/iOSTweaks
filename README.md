@@ -1,6 +1,6 @@
 # MENU
 ### [iOSTweaks](https://starblayze.github.io/iOSTweaks/) (Homepage for iOSTweaks) [CURRENT PAGE]
-### [ViPCracks](https://github.com/StarBlayze/ViPCracks) (Free iOSGods ViP Non-Jailbroken Hacks & Cheats)
+### [ViPCracks](https://starblayze.github.io/ViPCracks/) (Free iOSGods ViP Non-Jailbroken Hacks & Cheats)
 
 
 # Tools by StarBlayze (Not publicly available (yet))
