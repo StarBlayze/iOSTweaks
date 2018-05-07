@@ -1,6 +1,6 @@
 # MENU
 
-### [ViPCracks - ViP Non-Jailbroken Hacks & Cheats](https://github.com/StarBlayze/ViPCracks) 
+### [ViPCracks](https://github.com/StarBlayze/ViPCracks) (Free iOSGods ViP Non-Jailbroken Hacks & Cheats)
 
 
 # Tools by StarBlayze (Not publicly available (yet))
