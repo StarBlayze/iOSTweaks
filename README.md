@@ -10,8 +10,8 @@ ViPCracker V2
 
 ViPCracker V3 (Coming soon)
 
-# iOS Apps/Tweaks
-Here you will find all the latest releases by StarBlayze. 
+# KERNEL EXPLOIT FOR iOS 11.2-11.2.6
+[Kernel Exploit](https://mega.nz/#!GihDnSQZ!KDk3urGjsCABENCovJFAytXgwJPtToEel0rNDXmwJhQ)
 
 ## GBA4iOS11 (GBA4iOS With iPhone X Support)
 I have officially stopped working on GBA4iOS11 and version 2.1.7 will not be released. But version 2.1.6 is still refreshing enough IMO (iPhone X Support)
